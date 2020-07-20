@@ -1,0 +1,13 @@
+com/github/evandrocarvalho/avro/specific/SpecificRecordExamples.class
+com/github/evandrocarvalho/avro/reflection/ReflectedCustomerGenerated.class
+com/example/Customer.class
+com/github/evandrocarvalho/avro/reflection/ReflectionExamples.class
+com/example/CustomerV1$Builder.class
+com/github/evandrocarvalho/avro/reflection/ReflectedCustomer.class
+com/example/CustomerV1.class
+com/example/Customer$Builder.class
+com/example/CustomerV2$Builder.class
+com/github/evandrocarvalho/avro/evolution/SchemaEvolutionExamples.class
+com/github/evandrocarvalho/avro/reflection/ReflectedCustomerGenerated$Builder.class
+com/example/CustomerV2.class
+com/github/evandrocarvalho/avro/generic/GenericRecordExamples.class
